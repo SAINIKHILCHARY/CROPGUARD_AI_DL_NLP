@@ -1,0 +1,5 @@
+Dataset,Epochs_Max,Test_Precision,Test_Recall,Test_mAP50,Test_mAP50_95,Saved_best_pt
+MultiCrop_Clean,40,0.6866,0.7405,0.727,0.5192,C:\Users\91934\OneDrive\Desktop\CropGuard_AI-DL\models_yolo\best_MultiCrop_Clean.pt
+PlantDoc_Clean,40,0.4939,0.549,0.5384,0.3802,C:\Users\91934\OneDrive\Desktop\CropGuard_AI-DL\models_yolo\best_PlantDoc_Clean.pt
+CottonDisease_Clean,50,0.5909,0.7829,0.7329,0.4853,C:\Users\91934\OneDrive\Desktop\CropGuard_AI-DL\models_yolo\best_CottonDisease_Clean.pt
+RiceDisease_Clean,50,0.465,0.4321,0.4006,0.136,C:\Users\91934\OneDrive\Desktop\CropGuard_AI-DL\models_yolo\best_RiceDisease_Clean.pt

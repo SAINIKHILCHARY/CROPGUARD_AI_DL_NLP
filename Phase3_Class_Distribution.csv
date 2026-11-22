@@ -1,0 +1,68 @@
+Dataset,Class_ID,Class_Name,Train_Boxes,Valid_Boxes,Test_Boxes,Total_Boxes
+CottonDisease_Clean,0,Alternaria leaf spot,33,9,5,47
+CottonDisease_Clean,1,Bacterial blight fruit,33,10,5,48
+CottonDisease_Clean,2,Cotton leaf roller,34,10,5,49
+CottonDisease_Clean,3,Mealy bug,35,11,5,51
+CottonDisease_Clean,4,Red cotton bug,54,13,7,74
+MultiCrop_Clean,0,banana_bract_mosaic_virus,28,8,4,40
+MultiCrop_Clean,1,banana_cordana,168,46,27,241
+MultiCrop_Clean,2,banana_healthy,66,28,14,108
+MultiCrop_Clean,3,banana_insectpest,210,65,45,320
+MultiCrop_Clean,4,banana_moko,38,9,4,51
+MultiCrop_Clean,5,banana_panama,106,18,10,134
+MultiCrop_Clean,6,banana_pestalotiopsis,92,38,18,148
+MultiCrop_Clean,7,banana_sigatoka,338,94,40,472
+MultiCrop_Clean,8,banana_yb_sigatoka,315,80,39,434
+MultiCrop_Clean,9,cauliflower_Blackrot,5,3,1,9
+MultiCrop_Clean,10,cauliflower_bacterial _spot _rot,11,3,2,16
+MultiCrop_Clean,11,cauliflower_downy_mildew,12,7,3,22
+MultiCrop_Clean,12,cauliflower_healthy,14,4,2,20
+MultiCrop_Clean,13,chilli_anthracnose,59,15,15,89
+MultiCrop_Clean,14,chilli_healthy,37,10,7,54
+MultiCrop_Clean,15,chilli_leafcurl,11,3,1,15
+MultiCrop_Clean,16,chilli_leafspot,52,31,12,95
+MultiCrop_Clean,17,chilli_whitefly,15,4,15,34
+MultiCrop_Clean,18,chilli_yellowish,5,1,1,7
+MultiCrop_Clean,19,groundnut_early_leaf_spot,555,165,70,790
+MultiCrop_Clean,20,groundnut_early_rust,103,29,15,147
+MultiCrop_Clean,21,groundnut_healthy,29,8,4,41
+MultiCrop_Clean,22,groundnut_late_leaf_spot,155,46,21,222
+MultiCrop_Clean,23,groundnut_nutrition_deficiency,142,39,19,200
+MultiCrop_Clean,24,groundnut_rust,121,35,17,173
+MultiCrop_Clean,25,radish_black_leaf_spot,37,11,5,53
+MultiCrop_Clean,26,radish_downey_mildew,114,27,18,159
+MultiCrop_Clean,27,radish_flea_beetle,36,10,5,51
+MultiCrop_Clean,28,radish_healthy,43,12,6,61
+MultiCrop_Clean,29,radish_mosaic,70,20,9,99
+PlantDoc_Clean,0,Corn leaf blight,255,65,39,359
+PlantDoc_Clean,1,Tomato Early blight leaf,139,40,19,198
+PlantDoc_Clean,2,Potato leaf early blight,204,65,34,303
+PlantDoc_Clean,3,Potato leaf late blight,173,47,18,238
+PlantDoc_Clean,4,Blueberry leaf,582,163,70,815
+PlantDoc_Clean,5,grape leaf black rot,94,25,6,125
+PlantDoc_Clean,6,Bell_pepper leaf spot,173,48,27,248
+PlantDoc_Clean,7,Cherry leaf,144,56,20,220
+PlantDoc_Clean,8,Peach leaf,416,130,56,602
+PlantDoc_Clean,9,Soyabean leaf,178,35,33,246
+PlantDoc_Clean,10,Strawberry leaf,319,98,45,462
+PlantDoc_Clean,11,Apple Scab Leaf,113,30,15,158
+PlantDoc_Clean,12,Corn rust leaf,83,22,12,117
+PlantDoc_Clean,13,Apple leaf,158,53,26,237
+PlantDoc_Clean,14,Corn Gray leaf spot,52,17,6,75
+PlantDoc_Clean,15,Tomato leaf mosaic virus,151,49,25,225
+PlantDoc_Clean,16,Tomato mold leaf,204,38,30,272
+PlantDoc_Clean,17,Tomato leaf yellow virus,603,118,66,787
+PlantDoc_Clean,18,Tomato leaf bacterial spot,190,49,27,266
+PlantDoc_Clean,19,Tomato leaf late blight,152,36,17,205
+PlantDoc_Clean,20,Squash Powdery mildew leaf,177,49,24,250
+PlantDoc_Clean,21,Bell_pepper leaf,186,111,15,312
+PlantDoc_Clean,22,grape leaf,140,49,16,205
+PlantDoc_Clean,23,Apple rust leaf,121,29,17,167
+PlantDoc_Clean,24,Tomato Septoria leaf spot,259,109,38,406
+PlantDoc_Clean,25,Tomato leaf,265,72,32,369
+PlantDoc_Clean,26,Raspberry leaf,380,108,51,539
+PlantDoc_Clean,27,Potato leaf,11,0,0,11
+PlantDoc_Clean,28,Tomato two spotted spider mites leaf,2,0,0,2
+RiceDisease_Clean,0,Brown_Spot,1086,304,209,1599
+RiceDisease_Clean,1,Rice_Blast,620,104,31,755
+RiceDisease_Clean,2,Bacterial_Blight,223,72,41,336

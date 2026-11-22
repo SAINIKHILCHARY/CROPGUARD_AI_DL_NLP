@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+clean/
+raw/
+runs_yolov8/
+predictions/
+cloudflared.exe
+*.zip
